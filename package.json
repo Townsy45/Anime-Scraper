@@ -1,0 +1,22 @@
+{
+  "name": "anime-scraper",
+  "version": "1.0.0",
+  "description": "Small scraper to fetch anime data into json",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Townsy45/Anime-Scraper.git"
+  },
+  "author": "Townsy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Townsy45/Anime-Scraper/issues"
+  },
+  "homepage": "https://github.com/Townsy45/Anime-Scraper#readme",
+  "dependencies": {
+    "puppeteer": "^9.1.1"
+  }
+}
